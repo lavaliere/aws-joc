@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.cloudbees.opscenter.server.model.SharedSlave plugin="operations-center-server@1.6">
+  <actions/>
+  <description></description>
+  <uid>0db36889-1b46-4ddf-b18c-87e6aa16a4fa</uid>
+  <disabled>false</disabled>
+  <properties class="com.cloudbees.opscenter.server.model.SharedSlave$PropertyList">
+    <com.cloudbees.opscenter.server.rbac.SharedSlaveProxyGroupContainer plugin="operations-center-rbac@1.6">
+      <groups/>
+      <roleFilters>
+        <string>anonymous</string>
+        <string>browse</string>
+        <string>authenticated</string>
+        <string>develop</string>
+      </roleFilters>
+    </com.cloudbees.opscenter.server.rbac.SharedSlaveProxyGroupContainer>
+  </properties>
+  <remoteFS>/home/ec2-user/</remoteFS>
+  <numExecutors>2</numExecutors>
+  <mode>NORMAL</mode>
+  <labelString>shared</labelString>
+  <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
+  <nodeProperties class="empty-list"/>
+  <launcher class="hudson.plugins.sshslaves.SSHLauncher" plugin="ssh-slaves@1.9">
+    <host>54.173.103.51</host>
+    <port>22</port>
+    <credentialsId>d7edc647-cf5a-4cc3-ae20-78a76597fe8a</credentialsId>
+    <maxNumRetries>0</maxNumRetries>
+    <retryWaitTime>0</retryWaitTime>
+  </launcher>
+</com.cloudbees.opscenter.server.model.SharedSlave>
