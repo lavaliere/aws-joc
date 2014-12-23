@@ -47,6 +47,7 @@ tools/
 **/slave-slave.log.*
 */cache/
 */fingerprints/
+*/elasticsearch/*
 
 # JEBC
 **/jgroups/*
@@ -61,3 +62,9 @@ tools/
 *.war
 *.hpi
 *.jpi
+*.cfe
+*.si
+*.tim
+*.tip
+*.doc
+*.blm
