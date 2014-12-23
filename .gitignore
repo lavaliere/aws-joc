@@ -7,7 +7,6 @@
 *.tmp
 *.old
 *.jar
-*.json
 
 # Linux user files
 .Xauthority
@@ -29,31 +28,29 @@ tools/
 
 # Generated Hudson state
 **/.owner
-**/secret.key
 **/queue.xml
-**/fingerprints/
-**/shelvedProjects/
-**/updates/
-**/jobs/*/workspace/
-**/updates/default.json
-**/war/
+**/fingerprints/**
+**/shelvedProjects/**
+**/updates/**
+**/jobs/*/workspace/**
+**/war/**
 
 # Tools that Hudson manages
 /tools/
 
 # Project specific stuff
-**/custom_deps/
-**/slave/workspace/
+**/custom_deps/**
+**/slave/workspace/**
 **/slave-slave.log.*
-*/cache/
-*/fingerprints/
-*/elasticsearch/
+**/cache/**
+**/fingerprints/**
+**/elasticsearch/**
 
 # JEBC
-**/jgroups/*
-**/monitoring/*
+**/jgroups/**
+**/monitoring/**
 *~
-**/wars/jenkins*.war
+**/wars/**
 *.log
 *.zip
 *.rrd
