@@ -58,4 +58,6 @@ tools/
 *.rrd
 *.gz
 *.fdt
-
+*.war
+*.hpi
+*.jpi
