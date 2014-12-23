@@ -1,0 +1,44 @@
+Started by timer
+Building in workspace /var/lib/jenkins-oc/workspace/hourly-backup-jockey
+Creating a backup to /tmp/backup-jockey/backup-hourly-backup-jockey-74.tar.gz
+Warning: excluding /var/lib/jenkins-oc/secrets/master.key from backup; make sure this is kept on secure storage
+100: .git/objects/8b/22055c6ffd005e7a749fedb0cbb4b3776c123d
+200: .git/objects/19/432098b324eaf501990462307643815fad3335
+300: .git/objects/34/02a98fa0cd9127b387d3fae8fb731315f67f63
+400: .git/objects/7d/e1a394749866ffa91687095d19a35484c7e5d9
+500: .git/objects/c6/2e53505ad9f852baf0c115fc5813a6671798c0
+600: .git/objects/b9/418209ffb5d52a639b361dcfedc5685ebebaab
+700: .git/objects/30/794bcf2d33400dc606671bc16a863319ad55a0
+800: .git/objects/f7/93626474e2e2a58931893b654a99a916f6752a
+900: .git/objects/9d/96b2dc0dc5ff33352c94f6afe3c2feed5218ca
+1000: .git/objects/22/81506c13a8b735d1e2c9f8f1fe2bbaba6532ed
+1100: .git/objects/bb/21dcfc8e36955b2789e693dc5151ccc449d4f0
+1200: .git/objects/e1
+1300: .git/objects/38/bfe1b43b3bc3855f546f67eb85a516082ca51b
+1400: .git/objects/3e/327180e8b33d2b1c52eb348fc8cf0c1725d0c0
+1500: .git/objects/13/6900ce5e0222b8b2a241431ffef8228302f13d
+1600: .git/objects/16/afaa3928feba1f00c422f23a2a7649a305d418
+1700: .git/objects/0d/51a0f89e50b16b1a94e3101f2eae6ecff3aca9
+1800: .git/objects/82/b091a514abdc0ec3bbbc850b47238613c33cfe
+1900: .git/objects/46/89ea8b211027247b687cd1618bfbab87e08a8a
+2000: .git/objects/d7/f5231f2249db7ff1a9e3218324454360c71a17
+2100: .git/objects/b0/5118413bdd3820b1b525d2f3683322b2e926f4
+2200: .git/objects/3c/af1ce9d8b044f11cc1ccd11a1486e8e035c0b9
+2300: .git/objects/d3/4bafe2897662d560e02a8038790417e4e9b00b
+2400: .git/objects/3f/03b4eb08562c5f2f82a2d169deff797ea0b8d6
+2500: .git/objects/c7/2477f4cf35cea30219356446dd7e653fcdab6b
+2600: .git/objects/29/43d0ed2b0aa61d654e541ba956d4ec07748e2d
+2700: .git/objects/ce/2067cdca9646079829592c9c6617e6a5b6c41b
+2800: .git/objects/4e/690ef2a4937fb4508be5797c3174242eaf1321
+2900: .git/objects/a8/d6334138276db621d20944ce58cc8e9290bbb4
+3000: .git/objects/86/d58c786c25b0482cd4b7c18b593eecd872d269
+3100: .git/objects/c4/43bbcf19ff4df4da156f0470a249237174a015
+3200: .git/objects/94
+3300: .git/objects/32/ce5bfcea6993e133b8f5affb0478abbab02410
+3400: .git/objects/7a/6962c551b8904afa76d07aa8dac6928688a0d7
+3500: .git/objects/63/d9b67d62d7dc3bf5c3165803d9831a00760d9e
+3600: .git/objects/04/8659bf522dc9147fb75744b60b61e91115c44a
+3700: .git/objects/57/1804935284a93c67757b2ecba04b73409522a8
+3800: .git/objects/24/6b97ad71286032b7b50cce115c683bc51f3266
+3900: .git/objects/70/a2e6e5b2f334ea60c8abfb78cb2c38d5f267c9
+4000: .git/objects/48/8f5a969be6aa863f348c567c83684f10c8a06b
