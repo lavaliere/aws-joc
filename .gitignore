@@ -47,7 +47,7 @@ tools/
 **/slave-slave.log.*
 */cache/
 */fingerprints/
-*/elasticsearch/*
+*/elasticsearch/
 
 # JEBC
 **/jgroups/*
